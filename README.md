@@ -12,17 +12,26 @@ I’m a passionate Computer Science Engineering student at VIT-AP University, cu
 
 ### 🛠️ Skills
 
-**Frontend:**  
-HTML · CSS · Bootstrap · JavaScript · React.js
+**Programming Languages:**
+Python . Java . JavaScript 
 
-**Backend:**  
-Python · Node.js · Express.js
+**Web Development:**
+HTML . CSS . Flexbox . Bootstrap . React.js . Node.js . Express.js 
 
-**Databases:**  
-SQLite · MongoDB
+**Databases:**
+SQLite . MongoDB 
 
-**Other:**  
-AI/ML · Data Structures & Algorithms · Flexbox · Git · Java · NumPy · Pandas · OOPs · MatPlotLib · Seaborn
+**Machine Learning:**
+Machine Learning . Neural Networks . NLP . Computer Vision 
+
+**Frameworks \& Libraries:**
+TensorFlow . Keras . Scikit-learn . OpenCV . NumPy . Pandas . Matplotlib 
+
+**Core Concepts:**
+Data Structures \& Algorithms . Object-Oriented Programming (OOP) 
+
+**Tools \& Version Control:**
+Git
 
 ---
 
@@ -44,8 +53,9 @@ AI/ML · Data Structures & Algorithms · Flexbox · Git · Java · NumPy · Pand
 - **Emoji Game:**  
   Engaging emoji-based memory challenge featuring reusable React components and modern CSS.
 
-- **IPL Dashboard:**  
-  IPL Dashboard app displaying team details and match info with asynchronous data fetching and routing.
+- **Face Detection (Deep Learning):**  
+  Designed and trained a CNN-based face detection model in TensorFlow using Sequential architecture. Integrated with OpenCV for real-time face detection on images and video streams.
+  _Tech: Python · TensorFlow · Keras · LabelMe · Albumentations_
 
 - **Earthquake Prediction (Deep Learning):**  
   GRU-based model to classify earthquake events as “Reviewed” or “Automatic” using USGS data.  
